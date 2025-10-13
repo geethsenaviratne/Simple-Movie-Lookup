@@ -2,7 +2,9 @@
 
 A tiny **vanilla HTML/CSS/JS** app that searches movies on **OMDb** and shows the poster, IMDb rating, and key details (Title, Year, Type, Director, Genre, Language, Released, Runtime, Plot).
 
-![App screenshot](asset/screenshot.png)
+<p align="center">
+  <img src="./assets/screenshot.png" alt="Simple Movie Lookup UI" width="960">
+</p>
 
 ---
 
@@ -10,14 +12,14 @@ A tiny **vanilla HTML/CSS/JS** app that searches movies on **OMDb** and shows th
 - Clean, responsive UI (no frameworks)
 - Poster + IMDb rating chip
 - Extra fields: **Title, Year, Type, Director, Genre, Language, Released, Runtime, Plot**
-- Minimal JavaScript using `XMLHttpRequest` (kept simple for learning)
+- Minimal JavaScript using `XMLHttpRequest` (simple and beginner-friendly)
 - Works locally without a build step
 
 ---
 
 ## 📦 Tech
-- **HTML5** for markup  
-- **CSS3** for styling (modern, responsive)  
+- **HTML5** markup  
+- **CSS3** styling  
 - **JavaScript** (vanilla, `XMLHttpRequest`)  
 - **OMDb API** for movie data
 
