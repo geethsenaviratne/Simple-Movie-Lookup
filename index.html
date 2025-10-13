@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Movie Lookup</title>
+  <link rel="stylesheet" href="index.css" />
+</head>
+
+<body>
+  <header class="site-header">
+    <h1>🎬 Movie Lookup</h1>
+    <p class="subtitle">Type a title, click Search, see poster & details</p>
+  </header>
+
+  <main class="container">
+    <section class="search-card">
+      <div class="search-row">
+        <input type="text" id="movie" placeholder="e.g., Inception, Avatar, The Matrix" />
+        <button onclick="search()">Search</button>
+      </div>
+
+      <div class="grid">
+        <div class="poster-box">
+          <img src="" id="poster" alt="Movie poster will appear here" />
+          <div class="rating-row">
+            <span class="badge">Rating</span>
+            <span id="rate" class="rating">—</span>
+          </div>
+        </div>
+
+        <div class="details">
+          <div class="row"><strong>Title:</strong> <span id="title">—</span></div>
+          <div class="row"><strong>Year:</strong> <span id="year">—</span></div>
+          <div class="row"><strong>Type:</strong> <span id="type">—</span></div>
+          <div class="row"><strong>Director:</strong> <span id="director">—</span></div>
+          <div class="row"><strong>Genre:</strong> <span id="genre">—</span></div>
+          <div class="row"><strong>Language:</strong> <span id="language">—</span></div>
+          <div class="row"><strong>Released:</strong> <span id="released">—</span></div>
+          <div class="row"><strong>Runtime:</strong> <span id="runtime">—</span></div>
+          <div class="row plot"><strong>Plot:</strong> <span id="plot">—</span></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <small>Built with HTML • CSS • JS</small>
+  </footer>
+
+  <script src="index.js"></script>
+</body>
+</html>
