@@ -26,3 +26,10 @@ A tiny **vanilla HTML/CSS/JS** app that searches movies on **OMDb** and shows th
 ---
 
 ## 📁 Project Structure
+
+.
+├─ index.html
+├─ index.css
+├─ index.js
+└─ assets/
+└─ screenshot.png ← place your image here
