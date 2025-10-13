@@ -2,7 +2,7 @@
 
 A tiny **vanilla HTML/CSS/JS** app that searches movies on **OMDb** and shows the poster, IMDb rating, and key details (Title, Year, Type, Director, Genre, Language, Released, Runtime, Plot).
 
-![App screenshot](assets/screenshot.png)
+![App screenshot](asset/screenshot.png)
 
 ---
 
