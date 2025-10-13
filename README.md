@@ -7,9 +7,7 @@
   (Title, Year, Type, Director, Genre, Language, Released, Runtime, Plot).
 </p>
 
-<p align="center">
-  <img src="./assets/screenshot.png" alt="Simple Movie Lookup UI" width="960">
-</p>
+
 
 <hr>
 
