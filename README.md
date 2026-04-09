@@ -103,5 +103,4 @@ git push
 
 <hr>
 
-<h2>📜 License</h2>
-<p><strong>MIT</strong> — do whatever, just keep the notice.</p>
+
