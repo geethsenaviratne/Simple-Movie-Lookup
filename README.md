@@ -3,7 +3,7 @@
 <h1>Simple-Movie-Lookup</h1>
 
 <p>
-  A tiny <strong>vanilla HTML/CSS/JS</strong> app that searches movies on <strong>OMDb</strong> and shows the poster, IMDb rating, and key details
+  A tiny <strong>vanilla HTML/CSS/JS</strong> app that searches movies on <strong>OMDb123456</strong> and shows the poster, IMDb rating, and key details
   (Title, Year, Type, Director, Genre, Language, Released, Runtime, Plot).
 </p>
 
